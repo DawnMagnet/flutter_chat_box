@@ -44,7 +44,7 @@ dependencies:
   uuid: ^3.0.7
   markdown_widget: ^2.2.0
   flutter_math_fork: ^0.7.1
-  markdown: ^7.0.2
+  markdown: 7.0.2
   flutter_launcher_icons: ^0.13.1
   package_info_plus: ^4.0.1
   get: ^4.6.5
